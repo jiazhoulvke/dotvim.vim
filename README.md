@@ -1,4 +1,4 @@
-autoload vim script from .vim
+autoload vim script from project's .vim directory
 
 # Usage
 
